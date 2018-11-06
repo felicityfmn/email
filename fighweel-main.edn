@@ -1,0 +1,6 @@
+{
+ :watch-dirs ["src/cljc" "src/cljs"]
+ :open-url   "http://localhost:9501/"
+ :ring-server-options {:port 9501}
+ :log-level  :all
+ }
